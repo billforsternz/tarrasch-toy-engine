@@ -153,6 +153,7 @@
   <ItemGroup>
     <ClCompile Include="src\ChessEngine.cpp" />
     <ClCompile Include="src\thc.cpp" />
+    <ClCompile Include="src\dummy.cpp" />
     <ClCompile Include="src\toyengine.cpp" />
   </ItemGroup>
   <ItemGroup>
