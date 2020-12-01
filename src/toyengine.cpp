@@ -16,7 +16,7 @@ using namespace thc;
 //-- preferences
 //#define CREATE_LOG
 //#define JUST_TESTING
-#define VERSION "Messing about V0.908"
+#define VERSION "Beta V0.908+"
 #define ENGINE_NAME "Tarrasch Toy Engine"
 
 FILE *file_log;
